@@ -3,9 +3,9 @@ interface fifo_if(input logic clock,rst);
              logic rd;
              logic full;
              logic empty;
-             logic [3:0] fifo_cnt;
-             logic [7:0] D_in;
-             logic [7:0] D_out;
+             logic [255:0] fifo_cnt;
+             logic [127:0] D_in;
+             logic [127:0] D_out;
 
          clocking driver_cb@(posedge clock);
             default input #1 output #1;
