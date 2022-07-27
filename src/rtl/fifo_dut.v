@@ -1,12 +1,12 @@
 module fifo_dut(
-  input [7:0]data_in,
+  input [127:0]data_in,
   input clock,rst,wr,rd,
   output empty,full,
-  output reg [3:0]fifo_cnt,
-  output reg [7:0] data_out
+  output reg [255:0]fifo_cnt,
+  output reg [127:0] data_out
 );
 
-  reg [7:0]mem[0:7];
+  reg [127:0]mem[0:127];
   reg [2:0]rd_ptr, wr_ptr;
 
   assign empty=(fifo_cnt==0)?1:0;
