@@ -1,0 +1,182 @@
+{
+    "_vcs_DPI_package": [
+        "_vcs_DPI_package",
+        "uM9F1",
+        "module",
+        1
+    ],
+    "vcs_paramclassrepository": [
+        "vcs_paramclassrepository",
+        "hEeZs",
+        "module",
+        2
+    ],
+    "_vcs_unit__2664294852": [
+        "_vcs_unit__2664294852",
+        "a0DN7",
+        "module",
+        3
+    ],
+    "std": [
+        "std",
+        "reYIK",
+        "module",
+        4
+    ],
+    "uvm_pkg": [
+        "uvm_pkg",
+        "zr7M1",
+        "module",
+        5
+    ],
+    "_vcs_msglog": [
+        "_vcs_msglog",
+        "zQBzV",
+        "module",
+        6
+    ],
+    "uvm_custom_install_recording": [
+        "uvm_custom_install_recording",
+        "nhiwz",
+        "module",
+        7
+    ],
+    "uvm_custom_install_verdi_recording": [
+        "uvm_custom_install_verdi_recording",
+        "EbjT3",
+        "module",
+        8
+    ],
+    "axi4_globals_pkg": [
+        "axi4_globals_pkg",
+        "mCUig",
+        "module",
+        9
+    ],
+    "axi4_master_pkg": [
+        "axi4_master_pkg",
+        "ZkrZm",
+        "module",
+        10
+    ],
+    "axi4_slave_pkg": [
+        "axi4_slave_pkg",
+        "CRx5S",
+        "module",
+        11
+    ],
+    "axi4_env_pkg": [
+        "axi4_env_pkg",
+        "MTYQU",
+        "module",
+        12
+    ],
+    "axi4_if": [
+        "axi4_if",
+        "A6N7j",
+        "module",
+        13
+    ],
+    "master_assertions": [
+        "master_assertions",
+        "vYQpS",
+        "module",
+        14
+    ],
+    "slave_assertions": [
+        "slave_assertions",
+        "rp22H",
+        "module",
+        15
+    ],
+    "axi4_master_driver_bfm": [
+        "axi4_master_driver_bfm",
+        "Lasbn",
+        "module",
+        16
+    ],
+    "axi4_master_monitor_bfm": [
+        "axi4_master_monitor_bfm",
+        "hRzwa",
+        "module",
+        17
+    ],
+    "axi4_master_agent_bfm": [
+        "axi4_master_agent_bfm",
+        "jqdiL",
+        "module",
+        18
+    ],
+    "axi4_slave_driver_bfm": [
+        "axi4_slave_driver_bfm",
+        "tN60h",
+        "module",
+        19
+    ],
+    "axi4_slave_monitor_bfm": [
+        "axi4_slave_monitor_bfm",
+        "U0y0T",
+        "module",
+        20
+    ],
+    "axi4_slave_agent_bfm": [
+        "axi4_slave_agent_bfm",
+        "gv04e",
+        "module",
+        21
+    ],
+    "fifo_if": [
+        "fifo_if",
+        "reD5S",
+        "module",
+        22
+    ],
+    "axi4_master_seq_pkg": [
+        "axi4_master_seq_pkg",
+        "SghY4",
+        "module",
+        23
+    ],
+    "axi4_slave_seq_pkg": [
+        "axi4_slave_seq_pkg",
+        "tbGf4",
+        "module",
+        24
+    ],
+    "axi4_virtual_seq_pkg": [
+        "axi4_virtual_seq_pkg",
+        "aFkBG",
+        "module",
+        25
+    ],
+    "axi4_test_pkg": [
+        "axi4_test_pkg",
+        "vZBBM",
+        "module",
+        26
+    ],
+    "top": [
+        "top",
+        "Emx8S",
+        "module",
+        27
+    ],
+    "axi_dut_0000": [
+        "axi_dut_0000",
+        "KWfw4",
+        "module",
+        28
+    ],
+    "fifo_dut": [
+        "fifo_dut",
+        "MBBzL",
+        "module",
+        29
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        30
+    ]
+}
